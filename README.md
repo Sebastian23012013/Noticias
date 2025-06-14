@@ -28,4 +28,4 @@ Este es un proyecto simple de una página web de noticias, desarrollada con **HT
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/noticias-hoy.git
+   git clone https://github.com/Sebastian23012013/Noticias.git
